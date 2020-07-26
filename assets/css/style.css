@@ -7,7 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-
+/* Used for defining the syling of the heading */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -49,7 +49,7 @@ a {
 p {
     font-size: 16px;
 }
-
+/* Background Image Style */
 .hero {
     height: 800px;
     width: 100%;
@@ -75,6 +75,7 @@ p {
     margin-left: 20px;
 }
 
+/* Used to define the stying of the text and colors of the box on the right side */
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -86,6 +87,7 @@ aside {
     background-color: #2589bd;
 }
 
+/* Combined multiple of the same css classes into one used in the right side box */
 .benefits-aside {
     margin-bottom: 32px;
     color: #ffffff;
@@ -102,8 +104,7 @@ aside {
     margin: 10px auto;
     max-width: 150px;
 }
-
-
+/* Combined more CSS classes into one in the middle of the website */
 .search-images {
     margin-bottom: 20px;
     padding: 50px;
