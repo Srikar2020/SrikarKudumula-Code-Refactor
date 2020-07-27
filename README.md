@@ -4,7 +4,7 @@ Link to Webssite: https://srikar2020.github.io/
 Used HTML and CSS edited the given starter code. 
 Started with changing the div's which are non-symantic elements to HTML symantic elements.
 Then I made sure the styling and positioning of the code was logicaly structured independently. 
-Commbined the CSS to make the code easier to access. 
+Commbined the CSS to make the code easier to access. Added nav and id two uceful for unique but very specific towards the webpage.
 The Images elements I also made sure that the alt attributes were easily accessible. 
 When I view the heading attributes I can see the sequential order everything was flowing smoothly. 
 When I view the title element I was able to describie it in the code so that when it is accessed in the inspection area you read it. 
